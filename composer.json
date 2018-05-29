@@ -1,0 +1,12 @@
+{
+  "name": "firegore2/thingiverse",
+  "description": "unofficial thingiverse wrapper",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pedro López Escudero",
+      "email": "firegore2@gmail.com"
+    }
+  ]
+}
